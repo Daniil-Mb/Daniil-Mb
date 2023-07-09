@@ -2,7 +2,6 @@
 
 <br/>  
 
-<div display="flex" justify-content: space-between>
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
@@ -28,6 +27,5 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>   
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 
-</div>
 </div>
 
